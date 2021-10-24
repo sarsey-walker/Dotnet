@@ -1,0 +1,17 @@
+C:\Users\srrob\Documents\codando\NET\Net.Core.ConsoleSeries\obj\Debug\netcoreapp3.1\Net.Core.ConsoleSeries.csprojAssemblyReference.cache
+C:\Users\srrob\Documents\codando\NET\Net.Core.ConsoleSeries\obj\Debug\netcoreapp3.1\Net.Core.ConsoleSeries.AssemblyInfoInputs.cache
+C:\Users\srrob\Documents\codando\NET\Net.Core.ConsoleSeries\obj\Debug\netcoreapp3.1\Net.Core.ConsoleSeries.AssemblyInfo.cs
+C:\Users\srrob\Documents\codando\NET\Net.Core.ConsoleSeries\obj\Debug\netcoreapp3.1\Net.Core.ConsoleSeries.csproj.CoreCompileInputs.cache
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\bin\Debug\netcoreapp3.1\Net.Core.Console.Series.exe
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\bin\Debug\netcoreapp3.1\Net.Core.Console.Series.deps.json
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\bin\Debug\netcoreapp3.1\Net.Core.Console.Series.runtimeconfig.json
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\bin\Debug\netcoreapp3.1\Net.Core.Console.Series.runtimeconfig.dev.json
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\bin\Debug\netcoreapp3.1\Net.Core.Console.Series.dll
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\bin\Debug\netcoreapp3.1\Net.Core.Console.Series.pdb
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\obj\Debug\netcoreapp3.1\Net.Core.Console.Series.csprojAssemblyReference.cache
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\obj\Debug\netcoreapp3.1\Net.Core.Console.Series.AssemblyInfoInputs.cache
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\obj\Debug\netcoreapp3.1\Net.Core.Console.Series.AssemblyInfo.cs
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\obj\Debug\netcoreapp3.1\Net.Core.Console.Series.csproj.CoreCompileInputs.cache
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\obj\Debug\netcoreapp3.1\Net.Core.Console.Series.dll
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\obj\Debug\netcoreapp3.1\Net.Core.Console.Series.pdb
+C:\Users\srrob\Documents\codando\NET\Net.Core.Console.Series\obj\Debug\netcoreapp3.1\Net.Core.Console.Series.genruntimeconfig.cache
